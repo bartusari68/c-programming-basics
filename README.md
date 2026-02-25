@@ -17,7 +17,7 @@ This repository contains beginner-friendly C programs to practice core programmi
 - File operations (basic)
 
 ## 📂 Current Files
-- Coming soon...
+number_stats.c
 
 ## 🚀 Build & Run
 ```bash
